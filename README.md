@@ -83,5 +83,3 @@ python server.py
 - [Confluent Python Client Usage and Examples](https://github.com/confluentinc/confluent-kafka-python)
 - [REST Proxy API Reference](https://docs.confluent.io/platform/current/kafka-rest/api.html)
 - [Kafka Connect JDBC Source Connector Configuration Options](https://docs.confluent.io/platform/current/connect/kafka-connect-jdbc/source-connector/index.html)
-
-# Optimizing-Public-Transportation
